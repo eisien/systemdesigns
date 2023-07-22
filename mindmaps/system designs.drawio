@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T16:45:34.546Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2LLyvjUkq375jRcMX-EV" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-22T16:47:10.534Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PyoQT2o-g3EFMLATfgpH" version="21.6.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2812" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2805" dy="1672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,10 +107,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1417" value="Setting up &lt;b&gt;Multi-Data Centres&lt;/b&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;to decrease latency for users&lt;br style=&quot;font-size: 14px;&quot;&gt;geographically far from data centres" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1876" y="210" width="234" height="126.5" as="geometry" />
+          <mxGeometry x="1850" y="263.5" width="234" height="76.5" as="geometry" />
         </mxCell>
         <mxCell id="1418" value="Multiple Rate Limiters" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1931" y="488.5" width="159" height="41.5" as="geometry" />
+          <mxGeometry x="1851" y="488.5" width="159" height="41.5" as="geometry" />
         </mxCell>
         <mxCell id="1428" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1352" target="1417" edge="1">
           <mxGeometry x="31" y="106.5" width="100" height="100" as="geometry">
