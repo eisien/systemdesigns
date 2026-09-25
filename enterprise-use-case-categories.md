@@ -270,7 +270,8 @@ This High-Level Design (HLD) outlines the enterprise data ecosystem, partitionin
                                            [ END USER APPS ]
 ```
 ------------------------------
-## Summarized Category Breakup## 1. Analytical Layer (OLAP)
+## Summarized Category Breakup
+## 1. Analytical Layer (OLAP)
 
 * Core Objective: Process massive volumes of historical data to uncover trends and back up business decisions.
 * Data Characteristics: Read-heavy, columnar format, non-volatile historical records, batch/micro-batch processing.
