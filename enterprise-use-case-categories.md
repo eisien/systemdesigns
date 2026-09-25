@@ -235,7 +235,8 @@ If you want to avoid vendor lock-in or build a hybrid infrastructure using best-
 
 
 
-## High-Level Design (HLD): Enterprise Data Architecture## Architecture Overview
+# High-Level Design (HLD): Enterprise Data Architecture
+## Architecture Overview
 This High-Level Design (HLD) outlines the enterprise data ecosystem, partitioning it into five functional and architectural layers. The design separates high-concurrency transactional writes, low-latency operational syncs, read-optimized analytical engines, strategic planning vectors, and global governance guardrails.
 ```
                                   ┌───────────────────────────────┐
